@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  terraform:
+    image: hashicorp/terraform:light
+    env_file: .env
+    working_dir: /workspace
+    volumes:
+      - $PWD:/workspace
