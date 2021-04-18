@@ -1,5 +1,9 @@
 # AWS lambda API stack with Terraform
 
+<p align=center>
+<img src="https://user-images.githubusercontent.com/7226038/115152327-0449ce00-a047-11eb-9430-3e7b0b760921.jpg">
+</p>
+
 ## Requirements
 
 To run this project you must have installed:
